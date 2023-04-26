@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Rinvex\Support\Providers;
+namespace Loffel\Support\Providers;
 
 use Illuminate\Support\Collection;
 use Illuminate\Support\ServiceProvider;
